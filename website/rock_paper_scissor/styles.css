@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+.ff {
+    display:flex;
+}
+.ff div {
+    with: 250px;
+    height: 250px;
+    /* background-color: yellow; */
+    flex:auto
+}
